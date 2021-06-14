@@ -1,7 +1,6 @@
 {
   "name": "todolist",
-
-  "homepage": "https://kshitijx13x.github.io/TodoList",
+  "homepage": "https://kshitijx13x.github.io/TodoList/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,5 +41,4 @@
   "devDependencies": {
     "gh-pages": "^3.2.0"
   }
-  
 }
